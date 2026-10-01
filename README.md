@@ -58,7 +58,7 @@ Automates printer creation, sharing, driver deployment, and Group Policy configu
 
 ### 📷 CDVA
 
-[One-sentence description of what CDVA does.]
+CDVA is a lightweight World of Warcraft addon used by 5,000+ players that provides real-time vocal spell cooldown announcements to keep players focused on combat instead of UI elements.
 
 Built using **[main technologies]** to [short explanation of the problem it solves].
 
